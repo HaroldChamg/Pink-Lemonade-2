@@ -27,4 +27,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ######Feedback from Lucas-I like the formatting, it looks really clean. Feedback from Max - I like that way you got the pic in. I like youre goals! Very cool!
 
 
+# Harold
+Same for what I commented on Max's, put more details on it so we can know you more, the way how you upploaded your picture is so hilarious, never thought googling my own image.
+
+
 
