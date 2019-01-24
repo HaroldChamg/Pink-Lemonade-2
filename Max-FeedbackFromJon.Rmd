@@ -25,3 +25,6 @@ output: html_document
 
 ##Feedback from Lucas:
 * Your code is formatted really well, it makes it easy to read. You could add more details into what you want to learn in the class.
+
+Feedback from Harold:
+* I'd say provided more information of you so we get to know you more somehow. I am color blind too, Red, Green, Blue and Purple.
