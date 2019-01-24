@@ -21,3 +21,6 @@ Author: Harold
 
 ## Feedback from Jon
 * I like your bullet-points, they are funny.  Similar to max, maybe add a caption of your photo for more context, but the details in your answer provide a good insight into why your'e studying data science.
+
+## Feedback from Lucas:
+* I really liked how muh detail you put into each question, it really lets me learn more about.
