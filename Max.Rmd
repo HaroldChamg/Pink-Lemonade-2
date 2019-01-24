@@ -1,0 +1,22 @@
+---
+title: "Lab Assingment 2"
+output: html_document
+---
+
+
+
+# About me - Max Ward
+## Pic of me
+![](Max.jpg)
+
+* How do cats jump so high? 
+
+* Working and then still working at a cool job
+
+* Making millions of dollars
+
+* Anything that can make that happen
+
+* I am color blind
+
+
