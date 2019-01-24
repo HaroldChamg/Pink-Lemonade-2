@@ -24,5 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * I boxed Amateur for one semester, and retired at 1-0.
 
 
-######Feedback from Lucas-I like the formatting, it looks really clean.
+######Feedback from Lucas-I like the formatting, it looks really clean. Feedback from Max - I like that way you got the pic in. I like youre goals! Very cool!
+
+
 
