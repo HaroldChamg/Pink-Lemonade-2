@@ -17,10 +17,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+
+
 * Why do most people hate numbers?
 * 6 Months after graduation I would hope to be preparing for law school, and 5 years after that working as a Lawyer.
 * Helping people who are mistreated by the Law.
 * Understand statistics and data science as it pertains to Law.
 * I boxed Amateur for one semester, and retired at 1-0.
+
+# Harold Feedback
+# Very interesting points and facts from you as I can see, hope this semester goes well, everything gets more straight forward
 
 
