@@ -20,3 +20,4 @@ output: html_document
 * I am color blind
 
 
+# I feel like me Luke and you are sharing same point of views for our career, and deadass I am color blind, mine is red, purple, green haha.
