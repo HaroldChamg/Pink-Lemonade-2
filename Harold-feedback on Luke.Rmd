@@ -27,3 +27,5 @@ knitr::opts_chunk$set(echo = TRUE)
 # Max 
 *Your question is funny and a good question. Your and my goals are pretty much the same. You're the first NASCAR fan I know. 
 
+# Feedback from Jon
+* Your answers are very interesting!  Maybe rephrase the first bullet so it makes a little more sense, as it is kind of unclear.  Also consider adding a caption, to make sure you get a good grade.  Other than that, very interesting profile!
